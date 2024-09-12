@@ -1,10 +1,9 @@
 ## Hello, I am Vishal 👋
- - 🔋  - I am working in field of batteries and towards EV
- - 🔭 - I’m currently working on battery modeling and simulations
- - 🐍 - I love python programming and love to implement it in the engineering field
+ - 🔋  - Working in field of batteries and towards EV
+ - 🔭 - Currently working on battery modeling and simulations
+ - 🐍 - Love python programming and love to implement it in the engineering field
  - 🧠 - Machine learning and AI enthusiast when I am not painting or listening to podcasts 😄 
- - 📚 - I love reading about new stuff and play around with new technologies
- - 📫 - Feel free to [<kbd><br> contact me <br></kbd>](mailto:writetovishal.sharma@gmail.com) to collaborate or correct any mistakes in the code
+ - 📚 - Love reading about new stuff and play around with new technologies
 
 <!--
 **ash3spho3nix/ash3spho3nix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
