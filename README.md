@@ -1,98 +1,102 @@
 <!-- Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Vishal+%F0%9F%91%8B;Battery+Simulation+%7C+AI+Systems;Building+Physics-Grounded+AI+%F0%9F%A7%A0;Local+AI+%7C+Open+Source+%7C+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Vishal+%F0%9F%91%8B;Battery+Modeling+%7C+Simulation+Engineer;Physics+%2B+AI+%3D+Real+Systems;From+Cell+Dynamics+to+Intelligent+Systems" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500px">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="450px">
 </p>
 
 ---
 
 # 👋 Hello, I'm Vishal  
 
-### 🔋 Simulation Engineer | 🧠 AI Builder | ⚙️ Systems Thinker  
+### 🔋 Battery Modeling Engineer | 🧠 AI Systems Builder |
 
 ---
 
 ## ⚡ About Me  
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+## ⚡ About Me
 
-- 🔋 Working in **battery domain (EV focus)** — modeling, simulation & scaling  
-- 🔭 Building **physics-grounded systems**, not just black-box ML  
-- 🐍 Python is my weapon of choice for engineering + AI  
-- 🧠 Exploring **AI systems, agents & local LLM infra**  
-- 🧩 I like systems that *connect*: simulation ↔ AI ↔ reasoning  
-- 🎯 Current obsession: **AI-assisted debugging + symbolic reasoning**  
+A curious engineer who somehow wandered into batteries… and then accidentally kept going until it turned into simulation frameworks, AI systems, and a mild obsession with how things *actually* work under the hood. 
+Current obsession is RL and GenAI, where ollama/vllm are my greatest friends so far to run local models.  
+Likes building models that don’t just fit curves but explain behavior — especially where things start breaking, diverging, or behaving weirdly (that’s where the fun is anyway).
+
+- 🔋 Works on **battery modeling, simulation & scaling laws (EV focus)**  
+- 🧠 Strong bias toward **physics-grounded modeling over black-box ML**  
+- ⚙️ Builds systems that connect: **simulation ↔ AI ↔ reasoning**  
+- 🐍 Python-driven engineering across domains  
+- 🔍 Interested in **instabilities, boundary regimes, and failure modes**  
+- 🤖 Explores **AI that can reason about systems, not just predict**  
 
 <br clear="both"/>
 
 ---
 
-## 🚀 What I'm Building  
+## 🚀 Current Direction  
 
-- ⚙️ **Battery Simulation Framework** → end-to-end modeling platform  
-- 🔍 **Codebase Indexer + Hybrid Analyzer** → AI that understands code structure + runtime  
-- 🧠 **Alchemist** → recombines past projects into new ideas  
-- 🤖 **Local AI Systems** → multi-agent coding + reasoning workflows  
-- 📚 **Knowledge Systems (RAG, Marginalia)** → personal research brain  
+- 🧠 Building **AI-assisted systems + debugging systems**
+- ⚡ Bridging **electrochemical models → system-level behavior**    
+- 🔍 Combining **static + dynamic code understanding for AI agents**  
+- 🧩 Moving toward **symbolic + physics-aware AI reasoning**  
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600px">
+</p>
+
+## 🧠 Development Philosophy  
+-  Focus on Local first, data privacy and tunable systems, not black boxes 
+- ⚡ Start from **first principles**, then approximate  
+- 🔬 Models should **fail meaningfully**, not just fit data  
+- 🧩 Micro-dynamics → Macro behavior (always traceable)  
+- 🚫 If it's only empirical → it's incomplete  
+- 🛠️ Build tools that **augment thinking**, not replace it  
 
 ---
 
 ## 🧰 Tech Stack  
 
-**Core**  
-🐍 Python | MATLAB | OpenFOAM | PyBaMM  
+<table align="center">
+<tr>
+<td><b>Domain</b></td>
+<td><b>Tools / Tech</b></td>
+</tr>
 
-**AI / ML**  
-🤖 LLMs | RAG | RL (DQN) | LoRA | Multi-Agent Systems  
+<tr>
+<td>🔋 Battery & Simulation</td>
+<td>PyBaMM, OpenFOAM, ECM Modeling, Thermal Models</td>
+</tr>
 
-**Simulation**  
-⚡ Battery Modeling | CFD | FEM | System Modeling  
+<tr>
+<td>🧠 AI / ML</td>
+<td>LLMs, RAG, Workflows, RL (DQN), LoRA, Multi-Agent Systems </td>
+</tr>
 
-**Infra & Tools**  
-🛠️ FastAPI | Qt | SQLite | FAISS | CLI Tools  
+<tr>
+<td>⚙️ Engineering</td>
+<td>Python, MATLAB, Numerical Methods, Advance Optimization</td>
+</tr>
 
----
+<tr>
+<td>🛠️ Infra & Systems</td>
+<td>FastAPI, Qt, SQLite, FAISS, CLI Tools</td>
+</tr>
 
-## 🧠 Philosophy  
+<tr>
+<td>📊 Data & Analysis</td>
+<td>Pandas, NumPy, Visualization, Experimentation</td>
+</tr>
 
-> Build systems that *understand*, not just predict.  
-
-- Physics first, ML second  
-- Structure over hacks  
-- Local-first AI > API dependency  
-- If it can’t scale or integrate → it’s a toy  
-
----
-
-## 📂 Highlight Projects  
-
-🔬 **Battery & Simulation**
-- Battery Simulation Framework  
-- OpenFOAM Battery Simulator  
-- Battery Scaling Analysis  
-
-🤖 **AI Infrastructure**
-- Codebase Indexer  
-- Hybrid Code Analyzer  
-- Constraint Enforcer  
-
-🧠 **AI Systems**
-- Local AI Coding System  
-- Alchemist (idea generator)  
-- AI Character / Roleplay System  
-
-📚 **Knowledge Systems**
-- Learning Journal  
-- Marginalia (RAG over PDFs)  
-
-👉 Full breakdown: *check pinned repos*  
+</table>
 
 ---
 
 ## 📊 GitHub Activity  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ash3spho3nix&show_icons=true&theme=radical" height="160">
@@ -111,13 +115,17 @@
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg">
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</p>
 ---
 
-## ⚡ Fun Corner  
+## 🧪 What You'll Find Here  
 
-- 🧪 I treat projects like experiments, not products  
-- 🔄 Most ideas here evolve into something else later  
-- 🧠 Half my “finished” projects are actually prototypes in disguise  
+- 🔋 Battery models: ECM → system-level scaling  
+- ⚙️ Simulation frameworks (CFD + electrochemistry)  
+- 🤖 AI infra: code understanding, agents, reasoning systems  
+- 🧠 Experiments in **physics + AI convergence**  
 
 ---
 
