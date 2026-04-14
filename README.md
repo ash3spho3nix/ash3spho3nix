@@ -1,24 +1,23 @@
 <!-- Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Vishal+%F0%9F%91%8B;Battery+Modeling+%7C+Simulation+Engineer;Physics+%2B+AI+%3D+Real+Systems;From+Cell+Dynamics+to+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Vishal+%F0%9F%91%8B;Battery+Modeling+%7C+Simulation+Engineer;Physics+%2B+AI+%3D+Real+Systems;From+Cell+Dynamics+to+Intelligent+Systems" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="450px">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200px">
 </p>
 
 ---
 
 # 👋 Hello, I'm Vishal  
 
-### 🔋 Battery Modeling Engineer | 🧠 AI Systems Builder |
+### 🔋 Battery Modeling Engineer | 🧠 AI Systems Builder | Problem Solver
 
 ---
 
 ## ⚡ About Me  
 
 <img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-## ⚡ About Me
 
 A curious engineer who somehow wandered into batteries… and then accidentally kept going until it turned into simulation frameworks, AI systems, and a mild obsession with how things *actually* work under the hood. 
 Current obsession is RL and GenAI, where ollama/vllm are my greatest friends so far to run local models.  
@@ -42,9 +41,6 @@ Likes building models that don’t just fit curves but explain behavior — espe
 - 🔍 Combining **static + dynamic code understanding for AI agents**  
 - 🧩 Moving toward **symbolic + physics-aware AI reasoning**  
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600px">
-</p>
 
 ## 🧠 Development Philosophy  
 -  Focus on Local first, data privacy and tunable systems, not black boxes 
@@ -53,6 +49,10 @@ Likes building models that don’t just fit curves but explain behavior — espe
 - 🧩 Micro-dynamics → Macro behavior (always traceable)  
 - 🚫 If it's only empirical → it's incomplete  
 - 🛠️ Build tools that **augment thinking**, not replace it  
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600px">
+</p>
 
 ---
 
@@ -98,10 +98,7 @@ Likes building models that don’t just fit curves but explain behavior — espe
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ash3spho3nix&show_icons=true&theme=radical" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ash3spho3nix&layout=compact&theme=radical" height="160">
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ash3spho3nix&theme=radical" height="160">
