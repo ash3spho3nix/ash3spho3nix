@@ -1,6 +1,6 @@
 <!-- Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Vishal+%F0%9F%91%8B;Battery+Modeling+%7C+Simulation+Engineer;Physics+%2B+AI+%3D+Real+Systems;From+Cell+Dynamics+to+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Vishal+%F0%9F%91%8B; Battery+Modeling+%7C+Simulation+Engineer;Physics+%2B+AI+%3D+Real+Systems; From+Cell+Dynamics+to+Intelligent+Systems" />
 </p>
 
 <p align="center">
