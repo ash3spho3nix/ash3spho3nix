@@ -1,6 +1,6 @@
 <!-- Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Vishal+%F0%9F%91%8B;Battery+Modeling+%7C+Simulation+Engineer;Physics+%2B+AI+%3D+Real+Systems;From+Cell+Dynamics+to+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Vishal+%F0%9F%91%8B;Battery+Modeling+%7C+Simulation+Expert;Physics+%2B+AI+%3D+Real+Systems;Cell+Dynamics+to+Intelligent+Systems" />
 </p>
 
 <p align="center">
@@ -11,13 +11,13 @@
 
 # 👋 Hello, I'm Vishal  
 
-### 🔋 Battery Modeling Engineer | 🧠 AI Systems Builder | Problem Solver
+### 🔋 Battery Modeling Expert | 🧠 AI Systems Builder | Problem Solver
 
 ---
 
 ## ⚡ About Me  
 
-<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 A curious engineer who somehow wandered into batteries… and then accidentally kept going until it turned into simulation frameworks, AI systems, and a mild obsession with how things *actually* work under the hood. 
 Current obsession is RL and GenAI, where ollama/vllm are my greatest friends so far to run local models.  
